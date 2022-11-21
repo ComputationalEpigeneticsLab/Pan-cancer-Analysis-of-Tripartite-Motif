@@ -1,6 +1,6 @@
 # Pan-cancer-Analysis-of-Tripartite-Motif
 ## Pan-cancer illumination of TRIM gene family reveals immunology regulation and potential therapeutic implications
-Yueying Gao#, Tao Pan#, Gang Xu#, Si Li, Jing Guo, Ya Zhang, Qi Xu, Jiwei Pan, Yanlin Ma,*, Juan Xu*, Yongsheng Li1*.
+Yueying Gao#, Tao Pan#, Gang Xu#, Si Li, Jing Guo, Ya Zhang, Qi Xu, Jiwei Pan, Yanlin Ma,*, Juan Xu*, Yongsheng Li*.
 ### Abstract
 Background: The tripartite motif (TRIM) proteins function as important regulators in innate immunity, tumorigenesis, cell differentiation and ontogenetic development. However, we are still lack knowledge about the genetic and transcriptome alterations landscape of TRIM proteins across cancer types. 
 Methods: We comprehensively reviewed and characterized the perturbations of TRIM genes across >10,000 samples across 33 cancer types. Genetic mutations and transcriptome of TRIM genes were analyzed by diverse computational methods. A TRIMs score index was calculated based on the expression of TRIM genes. The correlation between TRIMs scores and clinical associations, immune cell infiltrations and immunotherapy response were analyzed by correlation coefficients and Gene Set Enrichment Analysis.
